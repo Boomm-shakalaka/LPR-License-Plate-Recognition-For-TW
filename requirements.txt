@@ -1,0 +1,7 @@
+pyqt5==5.15.6
+numpy==1.19.3
+opencv-python==4.2.0.32
+pillow
+pyocr
+easyocr
+tensorflow==1.13.1
